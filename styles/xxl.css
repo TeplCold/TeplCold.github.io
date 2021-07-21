@@ -1,0 +1,317 @@
+.navbar-nav {
+    justify-content: center;
+    width: 100%;
+}
+
+.FI {
+    font-size: 6.4vw;
+    font-family: Lobster-Regular;
+}
+
+.text-typing {
+    font-size: 3.5vh;
+}
+
+.content {
+    width: 1800px;
+    margin: 0 auto;
+}
+
+#block2 {
+    margin-top: 50px;
+}
+
+.polosa {
+    background: #26ade5;
+    height: 50px;
+    margin-top: 40px;
+}
+
+.bloksummary {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+#obomne {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.blokobomne {
+    display: flex;
+    text-align: center;
+}
+
+.photo img {
+    width: 230px;
+}
+
+.containerobome {
+    position: relative;
+    margin-top: 8px;
+}
+
+.fio {
+    font-size: 41px;
+    text-transform: uppercase;
+    font-family: SawarabiGothic-Regular;
+    font-weight: 600;
+}
+
+.fio h {
+    margin-left: 2vh;
+    margin-right: 2vh;
+}
+
+.txtprogrammer {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.blokobome {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.blokobome div {
+    font-size: 18px;
+    display: flex;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.obomneicon {
+    height: 25px;
+}
+
+.info {
+    margin: 0px !important;
+    margin-top: -2px !important;
+}
+
+.containereducation {
+    width: 60%;
+    margin-left: 15%;
+    margin-right: 10%;
+}
+
+.txt_bloksummar {
+    font-size: 35px;
+    font-weight: 600;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+.contacts {
+    font-size: 21px;
+    margin-top: 12px;
+}
+
+.txtcontacts {
+    font-size: 14px;
+    margin-top: 8px;
+    text-indent: 20px;
+    text-align: justify;
+}
+
+.nameexperience {
+    font-size: 28px;
+    color: #26ade5;
+    font-weight: 600;
+}
+
+.margin-top {
+    margin-top: 20px;
+}
+
+.txtexperience {
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.txtdopoby {
+    font-size: 25px;
+}
+
+.txtdop {
+    font-size: 20px;
+}
+
+.txtdop h {
+    font-weight: 600;
+}
+
+.biok_quality_skills {
+    width: 40%;
+    margin-right: 10%;
+}
+
+.Pacifico-Regular {
+    font-family: Pacifico-Regular;
+}
+
+.cursive {
+    font-weight: 700;
+}
+
+.txtotvets {
+    text-indent: 20px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.experience_ul {
+    padding: 0 !important;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.experience_ul li {
+    color: #26ade5;
+}
+
+.experience_ul li span {
+    color: #000000;
+}
+
+#block3 {
+    background: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.txt_job_zagolov {
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 40px;
+}
+
+.txt_job {
+    font-size: 30px;
+}
+
+.holder {
+    position: relative;
+    height: 100%;
+}
+
+.blokholder {
+    margin: 40px;
+    display: inline-table;
+    width: 630px;
+    background: rgba(0, 0, 0, 1);
+    border-radius: 20px;
+    color: white;
+    overflow: hidden;
+    height: 520px;
+}
+
+.block {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    background: rgba(92, 92, 92, 0.7);
+    padding: 5px;
+    display: none;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+
+.block a {
+    text-decoration: none;
+    color: rgb(255, 255, 255) !important;
+    font-size: 60px;
+    font-family: SawarabiGothic-Regular;
+    font-weight: 500;
+}
+
+.holder:hover .block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.myproject {
+    width: 630px;
+}
+
+.txtholder {
+    margin: 20px;
+}
+
+.footer {
+    height: 50px;
+    background: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.to-bottom {
+    width: 40px;
+    height: 70px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.to-bottom::before {
+    content: "";
+    width: 10px;
+    height: 15px;
+    background: rgb(199, 199, 199);
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 40%;
+    animation: tobottom 1.5s infinite;
+}
+
+@keyframes tobottom {
+    100% {
+        opacity: 0;
+        top: 55px;
+    }
+}
+
+.obomneicon1 {
+    width: 40px;
+}
+
+.icon_bloksummar2 {
+    width: 60px;
+}
+
+.icon_bloksummar3 {
+    width: 55px;
+}
+
+.icon_bloksummar4 {
+    width: 42px;
+}
+
+.icon_bloksummar5 {
+    width: 42px;
+}
+
+.icon_bloksummar6 {
+    width: 45px;
+}
+
+.icon_bloksummar7 {
+    width: 70px;
+}

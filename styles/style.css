@@ -1,0 +1,46 @@
+@import url(xxl.css) (min-width: 1800px);
+@import url(xl.css) (min-width: 1200px) and (max-width: 1800px);
+@import url(lg.css) (min-width: 992px) and (max-width: 1200px);
+@import url(md.css) (min-width: 768px) and (max-width: 992px);
+@import url(sm.css) (min-width: 576px) and (max-width: 768px);
+@import url(xs.css) (max-width: 576px);
+
+@font-face {
+    font-family: Lobster-Regular;
+    src: url("../fonts/Lobster-Regular.ttf");
+}
+
+@font-face {
+    font-family: SawarabiGothic-Regular;
+    src: url("../fonts/SawarabiGothic-Regular.ttf");
+}
+
+@font-face {
+    font-family: Pacifico-Regular;
+    src: url("../fonts/Pacifico-Regular.ttf");
+}
+
+
+
+.parallax {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("../assets/NAV_WebDesign_BackgroundB.png") no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(223, 223, 223);
+}
+
+.FI {
+    font-size: 6.4vw;
+    font-family: Lobster-Regular;
+}
+
+.text-typing {
+    font-size: 3.5vw;
+}
