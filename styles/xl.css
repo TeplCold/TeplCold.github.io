@@ -1,24 +1,9 @@
-.navbar-nav {
-    justify-content: center;
-    width: 100%;
-}
-
-.FI {
-    font-size: 6.4vw;
-    font-family: Lobster-Regular;
-}
-
-.text-typing {
-    font-size: 3.5vh;
-}
-
 .content {
     width: 1200px;
     margin: 0 auto;
 }
 
 .polosa {
-    background: #26ade5;
     height: 50px;
     margin-top: 40px;
 }
@@ -51,9 +36,6 @@
 
 .fio {
     font-size: 35px;
-    text-transform: uppercase;
-    font-family: SawarabiGothic-Regular;
-    font-weight: 600;
 }
 
 .fio h {

@@ -1,18 +1,9 @@
-.navbar-nav {
-    justify-content: center;
-    width: 100%;
-}
-
-
-
 .content {
     width: 768px;
     margin: 0 auto;
-
 }
 
 .polosa {
-    background: #26ade5;
     height: 40px;
     margin-top: 30px;
 }
@@ -26,13 +17,10 @@
 .bloksummarmd {
     display: block;
     margin-top: 35px;
-
 }
 
 #obomne {
-
     margin-bottom: 23px;
-
 }
 
 .blokobomne {
@@ -42,21 +30,15 @@
 
 .photo img {
     width: 170px;
-
 }
 
 .containerobome {
     position: relative;
     margin-top: 5px;
-
 }
 
 .fio {
-
     font-size: 32px;
-    text-transform: uppercase;
-    font-family: SawarabiGothic-Regular;
-    font-weight: 600;
 }
 
 .fio h {
@@ -67,7 +49,6 @@
 .txtprogrammer {
     font-size: 20px;
     margin-top: 15px;
-
 }
 
 .blokobome {
@@ -76,7 +57,6 @@
     width: 100%;
     display: flex;
     justify-content: center;
-
 }
 
 .blokobome div {
@@ -84,12 +64,10 @@
     display: flex;
     margin-left: 20px;
     margin-right: 20px;
-
 }
 
 .obomneicon {
     height: 22px;
-
 }
 
 .info {
@@ -116,19 +94,15 @@
     font-weight: 600;
     border-bottom: 3px solid rgb(0, 0, 0);
     text-align: justify;
-
 }
 
 .txt_bloksummarmd {
     text-align: center;
-
 }
-
 
 .contacts {
     font-size: 17px;
     margin-top: 5px;
-
 }
 
 .txtcontacts {
@@ -136,7 +110,6 @@
     margin-top: 2px;
     text-indent: 20px;
     text-align: justify;
-
 }
 
 .txtcontactsmd {
@@ -148,33 +121,27 @@
     font-size: 20px;
     color: #26ade5;
     font-weight: 600;
-
 }
 
 .margin-top {
     margin-top: 14px;
-
 }
 
 .txtexperience {
     font-size: 14px;
     margin-left: 75px;
-
 }
 
 .txtdopoby {
     font-size: 16px;
-
 }
 
 .txtdop {
     font-size: 14px;
-
 }
 
 .txtdop h {
     font-weight: 600;
-
 }
 
 .biok_quality_skills {
@@ -197,7 +164,6 @@
 
 .cursive {
     font-weight: 700;
-
 }
 
 .txtotvets {
@@ -205,14 +171,12 @@
     text-align: justify;
     font-size: 14px;
     margin-right: 4%;
-
 }
 
 .experience_ul {
     padding: 0 !important;
     margin-left: 25px;
     font-size: 14px;
-
 }
 
 .experience_ul li {
@@ -227,17 +191,13 @@
     background: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     text-align: center;
-
 }
-
-
 
 .txt_job_zagolov {
     font-size: 27px;
     font-weight: 600;
     margin-bottom: 2px;
     margin-top: 25px;
-
 }
 
 .txt_job {
@@ -258,7 +218,6 @@
     color: white;
     overflow: hidden;
     height: 320px;
-
 }
 
 .block {
@@ -280,7 +239,6 @@
     font-size: 40px;
     font-family: SawarabiGothic-Regular;
     font-weight: 500;
-
 }
 
 .holder:hover .block {

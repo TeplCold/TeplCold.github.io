@@ -20,7 +20,20 @@
     src: url("../fonts/Pacifico-Regular.ttf");
 }
 
+.navbar-nav {
+    justify-content: center;
+    width: 100%;
+}
 
+.polosa {
+    background: #26ade5;
+}
+
+.fio {
+    text-transform: uppercase;
+    font-family: SawarabiGothic-Regular;
+    font-weight: 600;
+}
 
 .parallax {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
