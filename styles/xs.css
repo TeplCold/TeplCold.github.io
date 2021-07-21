@@ -3,6 +3,12 @@
     width: 100%;
 }
 
+.navbar {
+    padding-top: .0rem !important;
+    padding-bottom: .0rem !important;
+    font-size: 4vw;
+}
+
 .polosa {
     background: #26ade5;
     height: 5vw;
@@ -42,14 +48,15 @@
 
 .txtprogrammer {
     font-size: 4vw;
-    margin-top: 3px;
+    margin-top: 1vw;
+
 }
 
 .blokobome {
     width: 100%;
     display: flex;
     justify-content: center;
-    margin-top: 8px;
+    margin-top: 1.5vh;
 }
 
 .blokobome div {
@@ -68,21 +75,22 @@
 }
 
 .txt_bloksummar {
-    font-size: 27px;
+    font-size: 5.5vw;
     font-weight: 600;
-    border-bottom: 3px solid rgb(0, 0, 0);
+    border-bottom: 0.6vw solid rgb(0, 0, 0);
     text-align: justify;
     text-align: center;
 }
 
 .txt_bloksummarmd {
     text-align: center;
-    margin-top: 40px;
+    margin-top: 4vw;
 }
 
 .contacts {
-    font-size: 3.2vw;
-    margin-top: 8px;
+    font-size: 3.3vw;
+    margin-top: 1vw;
+
 }
 
 .txtcontacts {
@@ -93,8 +101,8 @@
 
 .txtcontactsmd {
     text-align: center;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 2vw;
+    margin-bottom: 4vw;
 }
 
 .nameexperience {
@@ -283,7 +291,7 @@
 }
 
 .obomneicon1 {
-    width: 31px;
+    width: 3vh;
 }
 
 .icon_bloksummar2 {
