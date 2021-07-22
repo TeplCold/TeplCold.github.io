@@ -188,6 +188,8 @@
 
 .txt_job {
     font-size: 3.4vw;
+    margin-left: 1.8vw;
+    margin-right: 1.8vw;
 }
 
 .holder {
@@ -295,17 +297,17 @@
 }
 
 .icon_bloksummar4 {
-    width: 6vw;
+    width: 5.7vw;
 }
 
 .icon_bloksummar5 {
-    width: 6.8vw;
+    width: 6.5vw;
 }
 
 .icon_bloksummar6 {
-    width: 7.4vw;
+    width: 7vw;
 }
 
 .icon_bloksummar7 {
-    width: 11vw;
+    width: 9.5vw;
 }
