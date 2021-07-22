@@ -11,7 +11,7 @@
 .bloksummary {
     display: flex;
     justify-content: center;
-    margin-top: 35px;
+    margin-top: 20px;
 }
 
 .bloksummarmd {
@@ -263,6 +263,7 @@
     align-items: center;
     justify-content: center;
     font-size: 14px;
+    margin-top: 20px;
 }
 
 .to-bottom {
@@ -313,7 +314,7 @@
 }
 
 .icon_bloksummar5 {
-    width: 33px;
+    width: 34.5px;
 }
 
 .icon_bloksummar6 {
